@@ -1,5 +1,5 @@
 # Prueba
-![Imagen del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/IMAGEN-DEL-PROYECTO.jpg?raw=true)
+![Imagen del proyecto](https://github.com/MelvinColmenares/prueba/blob/1136dbc7d1f0078ca8996394ea8c6161fd5f9119/_PFINAL_IMAGENES/MAPA_DETALLE_USD.png)
 
 ## Ejemplo en vivo
 - [URL-de-github-pages-de-este-proyecto](URL-de-github-pages-de-este-proyecto)
