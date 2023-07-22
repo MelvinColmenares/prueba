@@ -21,12 +21,10 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse, 
 ## Vista previa del proyecto
 Si quieres hechas un vistazo al proyecto, te recomiendo:
 
-![Captura del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/CAPTURA-DEL-PROYECTO.jpg?raw=true)
-![Captura del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/CAPTURA-DEL-PROYECTO.jpg?raw=true)
-![Captura del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/CAPTURA-DEL-PROYECTO.jpg?raw=true)
+![Captura del proyecto](https://github.com/MelvinColmenares/prueba/blob/1136dbc7d1f0078ca8996394ea8c6161fd5f9119/_PFINAL_IMAGENES/MAPA_DETALLE_USD.png)
 
 ## Autor ✒️
-**Melvin Colmenares**
+## **Melvin Colmenares**
 
 * [micorreo@midominio.com](micorreo@midominio.com)
 * [LinkedIn](https://www.linkedin.com/in/tu-url-de-linkedin/)
