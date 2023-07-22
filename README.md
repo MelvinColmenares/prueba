@@ -26,11 +26,30 @@ Si quieres hechas un vistazo al proyecto, te recomiendo:
 ## Autor ✒️
 ## **Melvin Colmenares**
 
+- [https://www.linkedin.com/in/melvincolmenares/](https://www.linkedin.com/in/melvincolmenares)
+
+- *melvincr@gmail.com*
+
+- [https://github.com/MelvinColmenares](https://github.com/MelvinColmenares])
+<!--
+Here are some ideas to get you started:
+
+
 * [micorreo@midominio.com](micorreo@midominio.com)
 * [LinkedIn](https://www.linkedin.com/in/tu-url-de-linkedin/)
 * [Behance](https://www.behance.net/tu-url-de-behance)
 * [Dribble](https://www.dribble.com/tu-url-de-dribble)
 * [Porfolio web](https://tu-dominio.com/)
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 ## Instalación 
 Este proyecto no necesita de instalación. Simplemente abre la carpeta o haz doble click en el .html
