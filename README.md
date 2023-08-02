@@ -1,3 +1,15 @@
+---
+title: Image gallery
+lightbox_captions: true
+---
+
+### Introduction
+
+This script creates an image gallery. The script reads all images from a specific (user-defined) folder in Jekyll, automagically crops them to 300px squares, using an image resize proxy service and shows them in rows of five.
+
+{% include image-gallery.html folder="/uploads/album" %}
+
+
 # Prueba
 ![Imagen del proyecto](https://github.com/MelvinColmenares/prueba/blob/1136dbc7d1f0078ca8996394ea8c6161fd5f9119/_PFINAL_IMAGENES/MAPA_DETALLE_USD.png)
 
